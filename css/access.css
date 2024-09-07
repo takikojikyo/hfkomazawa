@@ -59,9 +59,9 @@ object-position: 90% 60%;
   margin-bottom: 80px;
 }
 .access-2>img{
-  height: 400px;
+  height: 500px;
   object-fit: cover;
-  object-position: 50% 44%;
+  object-position: 0% 60%;
  
   margin-bottom: 50px;
 }
